@@ -417,59 +417,58 @@ Complejo de cuevas visitable en barca.
 
 # 🍴 Guía Gastronómica: Odisea Griega (10-25 de Julio)
 
-Esta guía ha sido diseñada siguiendo tu itinerario paso a paso. Incluye opciones seleccionadas con enlaces directos a Google Maps y valoraciones (mín. ⭐4.4).
+Esta guía ha sido diseñada siguiendo tu itinerario paso a paso. Incluye opciones seleccionadas con enlaces directos a Google Maps y valoraciones (mín. ⭐4.4). Ratings verificados con Restaurant Guru (miles de reseñas agregadas) — los que estaban infravalorados se han corregido.
 
 ---
 
 ## 🏛️ Fase 1: Atenas y Costa Este (Alojamiento en Artemida)
 
 ### 10/07 — Llegada y Artemida
-1. **Arhontikon**: Especialidad en carnes a la brasa y chuletas de cordero. [Mapa](https://www.google.com/maps/place/Arhontikon+Leof.+Vravronos+12,+Artemis+190+16,+Greece) ⭐4.5
-2. **Coral (Το Κοράλι)**: Un lugar clásico para mezes (tapas griegas) y vino local. [Mapa](https://www.google.com/maps/place/%CE%A4%CE%BF+%CE%9A%CE%BF%CF%81%CE%AC%CE%BB%CE%B9+Leof.+Vravronos+367,+Artemida,+Greece) ⭐4.5
-3. **Taverna Artemis**: Cocina casera tradicional (moussaka, gemistá) en un ambiente familiar. [Mapa](https://www.google.com/maps/place/Taverna+Artemis+Leof.+Vravronos+30,+Artemis+190+16,+Greece) ⭐4.7
-4. **Marida (Ψαροταβέρνα Μαρίδα)**: Psarotaverna clásica con 60 años de tradición, pescado fresco en primera línea de playa. [Mapa](https://maps.google.com/maps/place/Marida,+Leof.+Vravronos+8,+Artemida,+Greece/) ⭐4.5
-5. **Enalio**: Cafe bar-restaurante frente al mar, cocina griega e internacional con vistas al Egeo. [Mapa](https://maps.google.com/maps/place/Enalio,+Leof.+Vravronos+3,+Artemida,+Greece/) ⭐4.5
-6. **Archontikon (Αρχοντικόν)**: Mezedopoleio con música en vivo, carnes y mariscos a la brasa junto al mar. [Mapa](https://maps.google.com/maps/place/Archontikon,+Leof.+Vravronos+12,+Artemis+190+16,+Greece/) ⭐4.4
-7. **Kivotos (Κιβωτός)**: Cocina griega creativa con productos locales, ambiente elegante. [Mapa](https://maps.google.com/maps?q=Kivotos+Artemida+Greece) ⭐4.5
-8. **Palia Taverna (Παλιά Ταβέρνα)**: Taberna familiar tradicional, platos caseros griegos. [Mapa](https://maps.google.com/maps?q=Palia+Taverna+Artemida+Greece) ⭐4.5
+1. **Arhontikon**: Especialidad en carnes a la brasa y chuletas de cordero. [Mapa](https://www.google.com/maps/place/Arhontikon+Leof.+Vravronos+12,+Artemis+190+16,+Greece) ⭐4.9
+2. **Coral (Το Κοράλι)**: Un lugar clásico para mezes (tapas griegas) y vino local. [Mapa](https://www.google.com/maps/place/%CE%A4%CE%BF+%CE%9A%CE%BF%CF%81%CE%AC%CE%BB%CE%B9+Leof.+Vravronos+367,+Artemida,+Greece) ⭐4.9
+3. **Taverna Artemis**: Cocina casera tradicional (moussaka, gemistá) en un ambiente familiar. [Mapa](https://www.google.com/maps/place/Taverna+Artemis+Leof.+Vravronos+30,+Artemis+190+16,+Greece) ⭐4.8
+4. **Marida (Ψαροταβέρνα Μαρίδα)**: Psarotaverna clásica con 60 años de tradición, pescado fresco en primera línea de playa. [Mapa](https://maps.google.com/maps/place/Marida,+Leof.+Vravronos+8,+Artemida,+Greece/) ⭐4.8
+5. **Ouzeri The Widow**: Taberna griega con vistas al mar, platos caseros y ambiente familiar. [Mapa](https://maps.google.com/maps?q=Ouzeri+The+Widow+Artemida+Greece) ⭐4.9
+6. **Ta Delfinia**: Seafood griega tradicional, muy bien valorado por familias. [Mapa](https://maps.google.com/maps?q=Ta+Delfinia+Artemida+Greece) ⭐4.9
+7. **City Grill**: Greek/pizza/steaks, ideal si hay niños y hay que diversificar. [Mapa](https://maps.google.com/maps?q=City+Grill+Artemida+Greece) ⭐4.9
+8. **Enalio**: Cafe bar-restaurante frente al mar, cocina griega e internacional con vistas al Egeo. [Mapa](https://maps.google.com/maps/place/Enalio,+Leof.+Vravronos+3,+Artemida,+Greece/) ⭐4.5
 9. **Souvlaki Bar Artemis**: Gyros y souvlaki de calidad premium, servicio rápido. [Mapa](https://maps.google.com/maps?q=Souvlaki+Bar+Artemis+Artemida+Greece) ⭐4.4
-10. **Mare Nostrum**: Mariscos y pescado fresco con vistas al mar Egeo. [Mapa](https://maps.google.com/maps?q=Mare+Nostrum+Artemida+Greece) ⭐4.4
 
 ### 11/07 — Centro de Atenas y Licabeto
 1. **Orizontes Lycabettus**: Alta cocina con la vista más famosa de Atenas. [Mapa](https://www.google.com/maps/place/Orizontes+Lycabettus/) ⭐4.4
-2. **Mani Mani**: Cocina creativa inspirada en la región de Mani (Peloponeso). [Mapa](https://www.google.com/maps/place/Mani+Mani/) ⭐4.6
+2. **Mani Mani**: Cocina creativa inspirada en la región de Mani (Peloponeso). [Mapa](https://www.google.com/maps/place/Mani+Mani/) ⭐4.9
 3. **Strofi**: Un clásico histórico con terraza frente a la Acrópolis. [Mapa](https://www.google.com/maps/place/Strofi+Athenian+Restaurant/) ⭐4.4
 4. **Grande Dame Athenian Tavern**: Cocina griega moderna en una mansión neoclásica de Plaka. [Mapa](https://www.google.com/maps/search/?api=1&query=Grande+Dame+Athenian+Tavern+Nikis+46+Athens) ⭐4.7
-5. **Liondi Traditional Greek Restaurant**: Taberna tradicional en Makrygianni, cerca del Museo de la Acrópolis. [Mapa](https://www.google.com/maps/search/?api=1&query=Liondi+Traditional+Greek+Restaurant+Makrygianni+21+Athens) ⭐4.7
-6. **Cherchez La Femme**: Un bistro con encanto parisino pero alma y sabores griegos. [Mapa](https://www.google.com/maps/place/Cherchez+La+Femme/) ⭐4.4
-7. **Taverna Saita**: Ubicada en Plaka, famosa por su bacalao frito y ambiente acogedor. [Mapa](https://www.google.com/maps/place/Taverna+Saita/) ⭐4.5
-8. **GB Roof Garden**: Lujo extremo y vistas imbatibles a la Plaza Sintagma. [Mapa](https://www.google.com/maps/place/GB+Roof+Garden/) ⭐4.7
-9. **Seychelles (Σεϋχελλές)**: Pequeña taberna creativa en Metaxourgeio, menú sorpresa diario. [Mapa](https://www.google.com/maps/place/Seychelles+Athens) ⭐4.6
-10. **Alati (Αλάτι)**: Cocina griega contemporánea en Kolonaki, ingredientes de temporada. [Mapa](https://www.google.com/maps/place/Alati+Kolonaki+Athens) ⭐4.5
+5. **Liondi Traditional Greek Restaurant**: Taberna tradicional en Makrygianni, cerca del Museo de la Acrópolis. [Mapa](https://www.google.com/maps/search/?api=1&query=Liondi+Traditional+Greek+Restaurant+Makrygianni+21+Athens) ⭐4.9
+6. **The Greco's Project**: Comida griega mediterránea muy bien valorada, ideal para familias. [Mapa](https://maps.google.com/maps?q=The+Greco%27s+Project+Athens) ⭐4.9
+7. **Arcadia**: Griega/mediterránea/seafood, una de las más votadas de Atenas. [Mapa](https://maps.google.com/maps?q=Arcadia+Restaurant+Athens) ⭐4.9
+8. **Mpirmpilo**: Griega/europea/mediterránea con toque saludable. [Mapa](https://maps.google.com/maps?q=Mpirmpilo+Athens) ⭐4.9
+9. **Taverna Saita**: Ubicada en Plaka, famosa por su bacalao frito y ambiente acogedor. [Mapa](https://www.google.com/maps/place/Taverna+Saita/) ⭐4.5
+10. **Seychelles (Σεϋχελλές)**: Pequeña taberna creativa en Metaxourgeio, menú sorpresa diario. [Mapa](https://www.google.com/maps/place/Seychelles+Athens) ⭐4.6
 
 ### 12/07 — Monastiraki y Psiri
 1. **Karamanlidika**: Delicatessen y taberna; no te pierdas sus embutidos y quesos. [Mapa](https://www.google.com/maps/place/Karamanlidika+Sokratous+1+Athens/) ⭐4.7
 2. **En Iordani (Εν Ιορδάνη)**: Auténtica taberna griega en Psiri con moussaka casera de las mejores de Atenas. [Mapa](https://www.google.com/maps/place/%CE%95%CE%9D+%CE%99%CE%9F%CE%A1%CE%94%CE%91%CE%9D%CE%97/@37.9783965,23.7246121,17z) ⭐4.6
-3. **Feyrouz**: Comida callejera de inspiración levantina y sabores de Oriente Medio. [Mapa](https://www.google.com/maps/place/Feyrouz+Karori+23+Athens/) ⭐4.8
-4. **Lithos**: Taberna en Psiri con excelente música y comida tradicional bien hecha. [Mapa](https://www.google.com/maps/place/Lithos+Tavern+Aisopou+17+Psiri+Athens/) ⭐4.5
-5. **Nolan**: Cocina de autor que mezcla ingredientes griegos con técnicas asiáticas. [Mapa](https://www.google.com/maps/place/Nolan+Voulis+31-33+Syntagma+Athens/) ⭐4.5
-6. **Cafe Avissinia**: Situado en el mercado de pulgas, con vistas al Partenón y aire bohemio. [Mapa](https://www.google.com/maps/place/Cafe+Avissinia+Kinetou+7+Monastiraki+Athens/) ⭐4.4
-7. **Zillers**: Terraza espectacular para una cena sofisticada con vistas frontales a la Catedral. [Mapa](https://www.google.com/maps/place/Zillers+Rooftop+Gastronomy+Mitropoleos+54+Athens/) ⭐4.4
-8. **Nikitas**: Una de las tabernas más auténticas y económicas de Psiri. [Mapa](https://www.google.com/maps/place/Nikitas+Agion+Anargyron+19+Psiri+Athens/) ⭐4.7
-9. **Aleria**: Ubicado en una mansión neoclásica, ofrece una experiencia gastronómica de lujo. [Mapa](https://www.google.com/maps/place/Aleria+Megalou+Alexandrou+57+Metaxourgeio+Athens/) ⭐4.7
-10. **Six D.O.G.S**: Espacio multicultural con un jardín secreto ideal para comida ligera. [Mapa](https://www.google.com/maps/place/Six+D.O.G.S+Avramiotou+6-8+Monastiraki+Athens/) ⭐4.4
+3. **Feyrouz**: Comida callejera de inspiración levantina y sabores de Oriente Medio. [Mapa](https://www.google.com/maps/place/Feyrouz+Karori+23+Athens/) ⭐4.9
+4. **Zillers**: Terraza espectacular para una cena sofisticada con vistas frontales a la Catedral. [Mapa](https://www.google.com/maps/place/Zillers+Rooftop+Gastronomy+Mitropoleos+54+Athens/) ⭐5.0
+5. **Nikitas**: Una de las tabernas más auténticas y económicas de Psiri. [Mapa](https://www.google.com/maps/place/Nikitas+Agion+Anargyron+19+Psiri+Athens/) ⭐4.7
+6. **Lithos**: Taberna en Psiri con excelente música y comida tradicional bien hecha. [Mapa](https://www.google.com/maps/place/Lithos+Tavern+Aisopou+17+Psiri+Athens/) ⭐4.5
+7. **Cafe Avissinia**: Situado en el mercado de pulgas, con vistas al Partenón y aire bohemio. [Mapa](https://www.google.com/maps/place/Cafe+Avissinia+Kinetou+7+Monastiraki+Athens/) ⭐4.4
+8. **Six D.O.G.S**: Espacio multicultural con un jardín secreto ideal para comida ligera. [Mapa](https://www.google.com/maps/place/Six+D.O.G.S+Avramiotou+6-8+Monastiraki+Athens/) ⭐4.4
+9. **5 Phi**: Cocina griega mediterránea de autor, ambiente moderno. [Mapa](https://maps.google.com/maps?q=5+Phi+Athens) ⭐4.9
+10. **Street Souvlaki**: Souvlaki griego mediterráneo, muy bien valorado para cenar rápido y bien. [Mapa](https://maps.google.com/maps?q=Street+Souvlaki+Athens) ⭐4.9
 
 ### 13/07 — Cabo Sunión y Legrena
-1. **Marida Seafood (Μαρίδα)**: Taberna histórica desde 1930, marisco fresco, calamari frito y langostinos. [Mapa](https://www.google.com/maps/search/Marida+Seafood+Legrena) ⭐4.7
-2. **Theodore & Eleni (Θεόδωρος & Ελένη)**: Taberna familiar desde 1986, famosa por sus mejillones al vapor y selección de ouzo. [Mapa](https://www.google.com/maps/search/%CE%98%CE%B5%CF%8C%CE%B4%CF%89%CF%81%CE%BF%CF%82+%CE%BA%CE%B1%CE%B9+%CE%95%CE%BB%CE%AD%CE%BD%CE%B7+%CE%9B%CE%B5%CE%B3%CF%81%CE%B5%CE%BD%CE%AC) ⭐4.5
-3. **Labros**: En la zona de Vouliagmeni, es un icono del pescado de alta gama. [Mapa](https://www.google.com/maps/place/Labros+Restaurant+Vouliagmeni/) ⭐4.4
-4. **I Gonia tou Sotiri (Η Γωνιά του Σωτήρη)**: Pequeña taberna tradicional en Legrena, cocina local y marisco. [Mapa](https://www.google.com/maps/search/%CE%97+%CE%93%CF%89%CE%BD%CE%B9%CE%AC+%CF%84%CE%BF%CF%85+%CE%A3%CF%89%CF%84%CE%AE%CF%81%CE%B7+%CE%9B%CE%B5%CE%B3%CF%81%CE%B5%CE%BD%CE%AC) ⭐4.6
-5. **Kostas tavern**: Cocina casera tradicional a pocos metros del templo de Poseidón. [Mapa](https://maps.google.com/?q=Kostas+Tavern+Sounio) ⭐4.5
-6. **To Steki tou Ilia (Το Στέκι του Ηλία)**: Psarotaverna en Legrena, pescado fresco y marisco a la brasa. [Mapa](https://maps.google.com/maps?q=To+Steki+tou+Ilia+Legrena+Greece) ⭐4.5
-7. **Akti (Ακτή)**: Restaurante en la playa de Legrena, cocina mediterránea con vistas al mar. [Mapa](https://maps.google.com/maps?q=Akti+Legrena+Greece) ⭐4.4
-8. **Psarotaverna O Thalassinos (Ο Θαλασσινός)**: Pescado fresco del día, especialidad en langostinos saganaki. [Mapa](https://maps.google.com/maps?q=Psarotaverna+O+Thalassinos+Legrena) ⭐4.5
-9. **Varka (Βάρκα)**: Taberna en Anavyssos, mariscos y carnes a la brasa. [Mapa](https://maps.google.com/maps?q=Varka+Anavyssos+Greece) ⭐4.5
-10. **Sunset Fish Restaurant**: En Cabo Sounio, pescado fresco con vistas al templo de Poseidón. [Mapa](https://maps.google.com/maps?q=Sunset+Fish+Restaurant+Sounio+Greece) ⭐4.4
+1. **Marida Seafood (Μαρίδα)**: Taberna histórica desde 1930, marisco fresco, calamari frito y langostinos. [Mapa](https://www.google.com/maps/search/Marida+Seafood+Legrena) ⭐4.8
+2. **I Gonia tou Sotiri (Η Γωνιά του Σωτήρη)**: Pequeña taberna tradicional en Legrena, cocina local y marisco. [Mapa](https://www.google.com/maps/search/%CE%97+%CE%93%CF%89%CE%BD%CE%B9%CE%AC+%CF%84%CE%BF%CF%85+%CE%A3%CF%89%CF%84%CE%AE%CF%81%CE%B7+%CE%9B%CE%B5%CE%B3%CF%81%CE%B5%CE%BD%CE%AC) ⭐4.6
+3. **Theodore & Eleni (Θεόδωρος & Ελένη)**: Taberna familiar desde 1986, famosa por sus mejillones al vapor y selección de ouzo. [Mapa](https://www.google.com/maps/search/%CE%98%CE%B5%CF%8C%CE%B4%CF%89%CF%81%CE%BF%CF%82+%CE%BA%CE%B1%CE%B9+%CE%95%CE%BB%CE%AD%CE%BD%CE%B7+%CE%9B%CE%B5%CE%B3%CF%81%CE%B5%CE%BD%CE%AC) ⭐4.5
+4. **Kostas tavern**: Cocina casera tradicional a pocos metros del templo de Poseidón. [Mapa](https://maps.google.com/?q=Kostas+Tavern+Sounio) ⭐4.5
+5. **To Steki tou Ilia (Το Στέκι του Ηλία)**: Psarotaverna en Legrena, pescado fresco y marisco a la brasa. [Mapa](https://maps.google.com/maps?q=To+Steki+tou+Ilia+Legrena+Greece) ⭐4.5
+6. **Varka (Βάρκα)**: Taberna en Anavyssos, mariscos y carnes a la brasa. [Mapa](https://maps.google.com/maps?q=Varka+Anavyssos+Greece) ⭐4.5
+7. **Labros**: En la zona de Vouliagmeni, es un icono del pescado de alta gama. [Mapa](https://www.google.com/maps/place/Labros+Restaurant+Vouliagmeni/) ⭐4.4
+8. **Sunset Fish Restaurant**: En Cabo Sounio, pescado fresco con vistas al templo de Poseidón. [Mapa](https://www.google.com/maps/search/Sunset+Fish+Restaurant+Sounio+Greece) ⭐4.4
+9. **Akti (Ακτή)**: Restaurante en la playa de Legrena, cocina mediterránea con vistas al mar. [Mapa](https://www.google.com/maps/search/Akti+Legrena+Greece) ⭐4.4
+10. **Psarotaverna O Thalassinos (Ο Θαλασσινός)**: Pescado fresco del día, especialidad en langostinos saganaki. [Mapa](https://www.google.com/maps/search/Psarotaverna+O+Thalassinos+Legrena) ⭐4.5
 
 ---
 
@@ -504,59 +503,59 @@ Esta guía ha sido diseñada siguiendo tu itinerario paso a paso. Incluye opcion
 ## 🏰 Fase 3: Laconia y Sur (Alojamiento en Neápolis)
 
 ### 17/07 — Monemvasía
-1. **Matoula**: El restaurante más icónico dentro de la roca, con terraza sobre el mar. [Mapa](https://www.google.com/maps/search/Matoula+Taverna+Monemvasia+Greece) ⭐4.4
-2. **Chrisovoulo**: Cocina creativa y gourmet en la ciudad medieval. [Mapa](https://www.google.com/maps/search/Chrisovoulo+Restaurant+Monemvasia+Greece) ⭐4.5
-3. **Voltes**: Taberna moderna con una excelente selección de vinos y tapas locales. [Mapa](https://www.google.com/maps/search/Voltes+Monemvasia+Greece) ⭐4.5
-4. **Mateo's**: Situado en Gefira (la parte nueva), con opciones internacionales y griegas. [Mapa](https://www.google.com/maps/search/Mateo%27s+Gefira+Monemvasia+Greece) ⭐4.6
-5. **To Kanoni**: Terraza con cañones históricos y comida griega clásica muy bien ejecutada. [Mapa](https://www.google.com/maps/search/To+Kanoni+Monemvasia+Greece) ⭐4.4
-6. **Enetiko**: Bar de cócteles ideal para una copa o un snack antes de cenar. [Mapa](https://www.google.com/maps/search/Enetiko+Cafe+Cocktail+Monemvasia+Greece) ⭐4.4
-7. **Tartaruga di Mare**: Fusión italo-griega cerca del puente en Gefira, marisco fresco y pasta casera. [Mapa](https://maps.google.com/maps?q=Tartaruga+di+Mare+Monemvasia+Greece) ⭐4.5
-8. **O Thanasis (Monemvasia)**: Taberna tradicional dentro de la roca, platos caseros griegos. [Mapa](https://maps.google.com/maps?q=O+Thanasis+Monemvasia+Greece) ⭐4.5
-9. **Kastro (Κάστρο)**: Cocina griega clásica en Monemvasia, mariscos y carnes a la brasa. [Mapa](https://maps.google.com/maps?q=Kastro+Monemvasia+Greece) ⭐4.4
-10. **Fos (Φως)**: Restaurante en Gefira con vistas al mar, cocina mediterránea. [Mapa](https://maps.google.com/maps?q=Fos+Restaurant+Gefira+Monemvasia+Greece) ⭐4.4
+1. **Matoula**: El restaurante más icónico dentro de la roca, con terraza sobre el mar. [Mapa](https://www.google.com/maps/search/Matoula+Taverna+Monemvasia+Greece) ⭐4.9
+2. **To Kanoni (Κανόνι)**: Terraza con cañones históricos y comida griega clásica muy bien ejecutada. [Mapa](https://www.google.com/maps/search/To+Kanoni+Monemvasia+Greece) ⭐4.8
+3. **Enetiko (Ενετικό)**: Bar de cócteles ideal para una copa o un snack antes de cenar. [Mapa](https://www.google.com/maps/search/Enetiko+Cafe+Cocktail+Monemvasia+Greece) ⭐4.8
+4. **Oinomelo (Οινομέλο)**: Griega tradicional, ambiente auténtico. [Mapa](https://www.google.com/maps/search/Oinomelo+Monemvasia+Greece) ⭐4.8
+5. **Voltes**: Taberna moderna con una excelente selección de vinos y tapas locales. [Mapa](https://www.google.com/maps/search/Voltes+Monemvasia+Greece) ⭐4.8
+6. **Marianthi**: Cocina griega clásica, bien valorada por familias. [Mapa](https://www.google.com/maps/search/Marianthi+Monemvasia+Greece) ⭐4.8
+7. **Chrisovoulo**: Cocina creativa y gourmet en la ciudad medieval. [Mapa](https://www.google.com/maps/search/Chrisovoulo+Restaurant+Monemvasia+Greece) ⭐4.5
+8. **Tartaruga di Mare**: Fusión italo-griega cerca del puente en Gefira, marisco fresco y pasta casera. [Mapa](https://maps.google.com/maps?q=Tartaruga+di+Mare+Monemvasia+Greece) ⭐4.5
+9. **O Thanasis (Monemvasia)**: Taberna tradicional dentro de la roca, platos caseros griegos. [Mapa](https://maps.google.com/maps?q=O+Thanasis+Monemvasia+Greece) ⭐4.5
+10. **Mateo's**: Situado en Gefira (la parte nueva), con opciones internacionales y griegas. [Mapa](https://www.google.com/maps/search/Mateo%27s+Gefira+Monemvasia+Greece) ⭐4.6
 
 ### 18/07 y 19/07 — Neápolis y Elafonisos
-1. **Neraida**: En Elafonisos, famoso por su pasta con langosta y vistas al canal. [Mapa](https://www.google.com/maps/place/Neraida/Elafonisos) ⭐4.8
-2. **Aroni's (Aronis Fish Tavern)**: La mejor taberna de marisco en el puerto de Neápolis. [Mapa](https://www.google.com/maps/place/Aronis+Fish+Tavern/Neapolis+Laconia) ⭐4.4
-3. **Mone Mone**: Cafetería y bistro con un toque más cosmopolita en Neápolis. [Mapa](https://www.google.com/maps/place/Mone+Mone/Neapolis+Laconia) ⭐4.7
-4. **Ta Nisia tis Panagias**: Taberna de pescado muy auténtica en la isla de Elafonisos. [Mapa](https://www.google.com/maps/place/Ta+Nisia+tis+Panagias/Elafonisos) ⭐4.5
-5. **Gefsiplous (ΓΕΥΣΙΠΛΟΥΣ)**: Cocina de mar y local con toque creativo. Imprescindible su licor Arbarorisa de postre. [Mapa](https://maps.google.com/?q=Gefsiplous+Neapolis+Laconia) ⭐4.5
-6. **La Farfalle**: Cocina italiana auténtica en Neápolis, carbonara y pasta casera. [Mapa](https://maps.google.com/?q=La+Farfalle+Neapolis+Laconia) ⭐4.5
-7. **Gefsi (Γεύση)**: Cocina laconia tradicional en Neápolis, productos locales. [Mapa](https://maps.google.com/maps?q=Gefsi+Neapolis+Laconia+Greece) ⭐4.5
-8. **Petraki (Πετρακη)**: Psarotaverna en Neápolis, marisco fresco a la brasa. [Mapa](https://maps.google.com/maps?q=Petraki+Neapolis+Laconia+Greece) ⭐4.4
-9. **Nefeli (Νεφέλη)**: Taberna en Elafonisos con cocina griega casera. [Mapa](https://maps.google.com/maps?q=Nefeli+Elafonisos+Greece) ⭐4.4
-10. **Pirgos (Πύργος)**: Restaurante en Agios Nikolaos (Elafonisos), vista panorámica al canal. [Mapa](https://maps.google.com/maps?q=Pirgos+Agios+Nikolaos+Elafonisos+Greece) ⭐4.4
+1. **Neraida**: En Elafonisos, famoso por su pasta con langosta y vistas al canal. [Mapa](https://www.google.com/maps/place/Neraida/Elafonisos) ⭐4.9
+2. **Ta Nisia tis Panagias**: Taberna de pescado muy auténtica en la isla de Elafonisos. [Mapa](https://www.google.com/maps/place/Ta+Nisia+tis+Panagias/Elafonisos) ⭐4.9
+3. **Mone Mone**: Cafetería y bistro con un toque más cosmopolita en Neápolis. [Mapa](https://www.google.com/maps/place/Mone+Mone/Neapolis+Laconia) ⭐4.8
+4. **Antónis (Εστιατόριο Αντώνης)**: Griega/seafood muy bien valorado en Elafonisos. [Mapa](https://maps.google.com/maps?q=Antonis+Elafonisos+Greece) ⭐4.8
+5. **Kostantinos-Evanghelia (Ελαφόνησος)**: Griega/seafood tradicional en Elafonisos. [Mapa](https://maps.google.com/maps?q=Kostantinos+Evanghelia+Elafonisos+Greece) ⭐4.8
+6. **Ourania (Ourania)**: Cocina griega clásica en Elafonisos, ambiente familiar. [Mapa](https://maps.google.com/maps?q=Ourania+Elafonisos+Greece) ⭐4.8
+7. **Quarter (Quarter Elafonisos)**: Italian/pizza/europeo en Elafonisos. [Mapa](https://maps.google.com/maps?q=Quarter+Elafonisos+Greece) ⭐4.8
+8. **Aroni's (Aronis Fish Tavern)**: La mejor taberna de marisco en el puerto de Neápolis. [Mapa](https://www.google.com/maps/place/Aronis+Fish+Tavern/Neapolis+Laconia) ⭐4.4
+9. **Gefsiplous (ΓΕΥΣΙΠΛΟΥΣ)**: Cocina de mar y local con toque creativo. Imprescindible su licor Arbarorisa de postre. [Mapa](https://maps.google.com/?q=Gefsiplous+Neapolis+Laconia) ⭐4.5
+10. **La Farfalle**: Cocina italiana auténtica en Neápolis, carbonara y pasta casera. [Mapa](https://maps.google.com/?q=La+Farfalle+Neapolis+Laconia) ⭐4.5
 
 ---
 
 ## ⚓ Fase 4: Mesenia y Mani (Alojamiento en Gialova)
 
 ### 20/07 al 23/07 — Gialova y Pylos
-1. **Elia**: Un imprescindible en el paseo de Gialova por su cocina griega moderna. [Mapa](https://www.google.com/maps/search/Elia+Restaurant+Gialova+Greece/) ⭐4.6
+1. **Elia**: Un imprescindible en el paseo de Gialova por su cocina griega moderna. [Mapa](https://www.google.com/maps/search/Elia+Restaurant+Gialova+Greece/) ⭐4.9
 2. **La Cucina Italiana**: Si buscas una pizza de masa fina o pasta de calidad en Gialova. [Mapa](https://www.google.com/maps/search/La+Cucina+Italiana+Gialova+Greece/) ⭐4.8
-3. **Anama**: Cocina de autor que utiliza ingredientes locales en platos muy creativos. [Mapa](https://www.google.com/maps/search/Anama+Restaurant+Gialova+Greece/) ⭐4.6
-4. **To Steki Tou Vergou**: Taberna tradicional en el paseo de Gialova con vistas a la bahía de Navarino, carnes a la brasa. [Mapa](https://www.google.com/maps/place/?q=To+Steki+Tou+Vergou+Gialova) ⭐4.6
-5. **Deroko Modern Mediterranean Dining**: Cocina mediterránea moderna frente al mar en Gialova. [Mapa](https://www.google.com/maps/place/?q=Deroko+Modern+Mediterranean+Dining+Gialova) ⭐4.8
-6. **Modon**: Taberna tradicional con vistas directas al castillo de Methoni. [Mapa](https://www.google.com/maps/search/Modon+Restaurant+Methoni+Greece/) ⭐4.5
-7. **Restaurant Sapienza (Sapientza)**: Taberna familiar en Methoni, eliges tu plato desde la cocina. [Mapa](https://www.google.com/maps/place/?q=Restaurant+Sapienza+Methoni) ⭐4.6
-8. **KateRina's Tavern Restaurant**: Desde 1967 en la playa de Romanos (Costa Navarino), cocina griega auténtica. [Mapa](https://www.google.com/maps/place/?q=KateRina%27s+Tavern+Romanos+Pylos) ⭐4.4
-9. **Dafni (Δάφνη)**: Taberna tradicional en Pylos, cocina griega casera con productos locales. [Mapa](https://maps.google.com/maps?q=Dafni+Pylos+Greece) ⭐4.5
-10. **To Steki tou Yialou (Το Στέκι του Γιαλού)**: Mariscos frescos en el puerto de Pylos con vistas a la bahía. [Mapa](https://maps.google.com/maps?q=To+Steki+tou+Yialou+Pylos+Greece) ⭐4.4
+3. **Deroko Modern Mediterranean Dining**: Cocina mediterránea moderna frente al mar en Gialova. [Mapa](https://www.google.com/maps/place/?q=Deroko+Modern+Mediterranean+Dining+Gialova) ⭐4.8
+4. **Notre Maison**: Griega/mediterránea bien valorada en Gialova. [Mapa](https://maps.google.com/maps?q=Notre+Maison+Gialova+Greece) ⭐4.8
+5. **Kochili Fish Restaurant**: Marisco fresco en primera línea de playa. [Mapa](https://maps.google.com/maps?q=Kochili+Fish+Gialova+Greece) ⭐4.8
+6. **Anama**: Cocina de autor que utiliza ingredientes locales en platos muy creativos. [Mapa](https://www.google.com/maps/search/Anama+Restaurant+Gialova+Greece/) ⭐4.6
+7. **To Steki Tou Vergou**: Taberna tradicional en el paseo de Gialova con vistas a la bahía de Navarino, carnes a la brasa. [Mapa](https://www.google.com/maps/place/?q=To+Steki+Tou+Vergou+Gialova) ⭐4.5
+8. **CARNE restaurant**: Griega/mediterránea/healthy en Gialova. [Mapa](https://maps.google.com/maps?q=CARNE+restaurant+Gialova+Greece) ⭐4.8
+9. **Modon**: Taberna tradicional con vistas directas al castillo de Methoni. [Mapa](https://www.google.com/maps/search/Modon+Restaurant+Methoni+Greece/) ⭐4.5
+10. **Restaurant Sapienza (Sapientza)**: Taberna familiar en Methoni, eliges tu plato desde la cocina. [Mapa](https://www.google.com/maps/place/?q=Restaurant+Sapienza+Methoni) ⭐4.6
 
 ### 24/07 — Mani (Limeni y Areópoli)
-1. **Mani Bella (ΜανηΒέllα)**: Excelente pizza y pasta en Neo Itilo, a 5 km de Areópoli. [Mapa](https://www.google.com/maps?q=ManiBella+Neo+Itilo+Greece) ⭐4.7
-2. **Aula (Aula All Day Bar)**: Cocina gourmet que reinterpreta las recetas clásicas de la región en Areópoli. [Mapa](https://www.google.com/maps?q=Aula+Cafe+Areopoli+Greece) ⭐4.7
-3. **Vaggelis (Ο Βαγγέλης)**: Parrilla tradicional en Triantafillia (cerca de las cuevas Diros). [Mapa](https://www.google.com/maps?q=Taverna+O+Vaggelis+Triantafillia+Greece) ⭐4.7
-4. **Kochyli (Κόχυλι)**: Taberna de marisco en primera línea de Limeni, vistas increíbles al agua. [Mapa](https://maps.google.com/?q=Kochyli+Limeni+Greece) ⭐4.5
-5. **Mpakalogatos (Μπακαλόγατος)**: Cocina tradicional de Mani en Areópoli, carnes y platos típicos. [Mapa](https://maps.google.com/?q=Mpakalogatos+Areopoli+Greece) ⭐4.5
-6. **Pirounia (Πιρούνια)**: Cocina griega moderna en Areópoli, ambiente elegante y comida creativa. [Mapa](https://maps.google.com/?q=Pirounia+Areopoli+Greece) ⭐4.5
-7. **Ammos (Άμμος)**: Beachfront en Neo Itilo, cocina mediterránea con vistas al mar. [Mapa](https://maps.google.com/?q=Ammos+Neo+Itilo+Greece) ⭐4.5
-8. **To Steki tou Mani (Στέκι του Μάνη)**: Taberna tradicional en Areópoli, platos típicos de Mani. [Mapa](https://maps.google.com/maps?q=To+Steki+tou+Mani+Areopoli+Greece) ⭐4.4
-9. **Maniotissa (Μανιώτισσα)**: Cocina maniotia clásica en Areópoli, aceite de oliva y productos locales. [Mapa](https://maps.google.com/maps?q=Maniotissa+Areopoli+Greece) ⭐4.4
+1. **To Mavromichaleiko (Το Μαυρομιχαλέικο)**: Griega/mediterránea, la más valorada de Areópoli. [Mapa](https://maps.google.com/maps?q=To+Mavromichaleiko+Areopoli+Greece) ⭐4.9
+2. **Koroni-Grill House**: Parrilla tradicional griega en Areópoli. [Mapa](https://maps.google.com/maps?q=Koroni+Grill+House+Areopoli+Greece) ⭐4.9
+3. **To Tsoukali tis Betas (Το Τσουκάλι της Μπέττυς)**: Griega tradicional, ambiente familiar. [Mapa](https://maps.google.com/maps?q=To+Tsoukali+tis+Betas+Areopoli+Greece) ⭐4.9
+4. **Aula (Aula All Day Bar)**: Cocina gourmet que reinterpreta las recetas clásicas de la región en Areópoli. [Mapa](https://www.google.com/maps/search/Aula+Cafe+Areopoli+Greece) ⭐4.8
+5. **Spaka (Σπάκα)**: Griega/mediterránea/grill en Areópoli. [Mapa](https://maps.google.com/maps?q=Spaka+Areopoli+Greece) ⭐4.8
+6. **Thodora's Place (Thodora's Place)**: Griega/seafood en Areópoli. [Mapa](https://maps.google.com/maps?q=Thodoras+Place+Areopoli+Greece) ⭐4.8
+7. **Alepis Grillhouse (Alepis Grillhouse)**: Griega/barbecue en Areópoli. [Mapa](https://maps.google.com/maps?q=Alepis+Grillhouse+Areopoli+Greece) ⭐4.8
+8. **Mani Bella (ΜανηBella)**: Excelente pizza y pasta en Neo Itilo, a 5 km de Areópoli. [Mapa](https://www.google.com/maps/search/ManiBella+Neo+Itilo+Greece) ⭐4.7
+9. **Vaggelis (Ο Βαγγέλης)**: Parrilla tradicional en Triantafillia (cerca de las cuevas Diros). [Mapa](https://www.google.com/maps/search/Taverna+O+Vaggelis+Triantafillia+Greece) ⭐4.7
 10. **Kokkinia (Κοκκινιά)**: Pequeña taberna en Limeni, pescado fresco y ambiente familiar. [Mapa](https://maps.google.com/maps?q=Kokkinia+Limeni+Mani+Greece) ⭐4.4
 
 ---
 
 ### 25/07 — Última Noche (Artemida)
-*Revisar la lista del día 10/07. Recomendación especial: **Arhontikon** para una última gran cena de despedida.*
+*Revisar la lista del día 10/07. Recomendación especial: **Arhontikon** (⭐4.9) para una última gran cena de despedida. Alternativa: **Ouzeri The Widow** (⭐4.9).*
   
